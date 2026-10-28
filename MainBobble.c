@@ -1,8 +1,6 @@
 #include <stdio.h>
 
 /* 
- * FUNCIONAMENTO DO BUBBLE SORT:
- * Compara elementos vizinhos e troca de posição se o atual for maior que o próximo,
  * fazendo as temperaturas maiores irem para o final da lista (ordem crescente).
  */
 void bubbleSort(int temperaturas[], int tamanho) {
@@ -53,4 +51,28 @@ int main() {
     exibirTemperaturas(temperaturas, tamanho);
 
     return 0;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 }
