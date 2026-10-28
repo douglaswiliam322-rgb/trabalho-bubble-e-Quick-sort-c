@@ -3,7 +3,7 @@
 /* 
  * fazendo as temperaturas maiores irem para o final da lista (ordem crescente).
  */
-void bubbleSort(int temperaturas[], int tamanho) {
+void bobbleSort(int temperaturas[], int tamanho) {
     int i, j, temp;
 
     //  controla o número de passagens
